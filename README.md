@@ -24,10 +24,10 @@ the web3 world.
 3. Before the game begins, each player needs to stake ETH to get luck tokens. This is done within the waiting period.
 4. The party master starts the game once the quorum is reached. If quorum fails, then any staked ETH is eligible for claimback.
 5. For each round:
-  1. Each player places bets on one or more symbols, limited by the number of tokens available. If the player has no tokens or wants to bet with more, then an option to exchange ETH for tokens can be availed.
-  2. Players can choose to abstain from placing bets, attracting a penalty of 5% of available tokens.
-  3. Players can choose to abandon the game altogether, attracting a penalty of 20% of available tokens.
-  4. Once the time limit has elapsed, the dice is rolled [by the game master] and the bets are evaluated.
-  5. Each player is rewarded or penalized accordingly.
+    1. Each player places bets on one or more symbols, limited by the number of tokens available. If the player has no tokens or wants to bet with more, then an option to exchange ETH for tokens can be availed.
+    2. Players can choose to abstain from placing bets, attracting a penalty of 5% of available tokens.
+    3. Players can choose to abandon the game altogether, attracting a penalty of 20% of available tokens.
+    4. Once the time limit has elapsed, the dice is rolled [by the game master] and the bets are evaluated.
+    5. Each player is rewarded or penalized accordingly.
 6. After the rounds are done, the players are given an option to continue (with increased stakes) within 30 seconds. Based on the outcome of the vote, the game respawns or finishes.
 7. Once the game completes, players have the ability to claim ETH equivalent to the tokens they possess. Tokens can be carried forward for future games.
